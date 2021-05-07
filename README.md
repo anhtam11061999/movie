@@ -1,3 +1,8 @@
+- Trang web xem thông tin các bộ phim, tìm kiếm các bộ phim.
+- Công nghệ sử dụng: ReactJs.
+- Vai trò: Front End.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
